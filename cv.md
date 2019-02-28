@@ -1,4 +1,4 @@
-**Name**: ###Yuri Kazliak###
+**Name**: Yuri Kazliak.
 
 *Adress*: Belarus, Minsk reign, Druzhny, Chepica st. 7-336.
 *E-mail*: guinnesswud1@gmail.com
@@ -26,7 +26,7 @@
 >    }
 >}
 
-**Experience**: unfinished textbooks, tutotials, manuals, guides on Java, C#, MySQL.
+**Experience**: unfinished textbooks, tutotials, manuals, guides on Java, C#, MySQL. 
 
 **Education**: BSUIR, Computer-aided design. 
 
